@@ -1,0 +1,6 @@
+../Src/NVIC_program.c:21:14:NVIC_vEnableIRQ	2
+../Src/NVIC_program.c:35:14:NVIC_vDisableIRQ	2
+../Src/NVIC_program.c:49:14:NVIC_vSetPendingFlag	2
+../Src/NVIC_program.c:63:14:NVIC_vClearPendingFlag	2
+../Src/NVIC_program.c:77:14:NVIC_vGetActiveFlag	3
+../Src/NVIC_program.c:98:14:NVIC_vSetPriority	3
