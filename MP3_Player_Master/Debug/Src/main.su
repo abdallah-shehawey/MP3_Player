@@ -1,0 +1,4 @@
+../Src/main.c:49:5:main	8	static
+../Src/main.c:118:6:NEXT	8	static
+../Src/main.c:138:6:PAUSE_RESUME	8	static
+../Src/main.c:151:6:PREVIOUS	8	static

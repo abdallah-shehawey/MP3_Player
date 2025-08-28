@@ -1,0 +1,4 @@
+../Src/TFT_program.c:24:6:HTFT_vinit	1
+../Src/TFT_program.c:55:6:HTFT_vSendCmd	1
+../Src/TFT_program.c:62:6:HTFT_vSendData	1
+../Src/TFT_program.c:69:6:HTFT_vDisplay	2

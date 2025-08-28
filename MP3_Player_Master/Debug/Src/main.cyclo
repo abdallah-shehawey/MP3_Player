@@ -1,0 +1,4 @@
+../Src/main.c:49:5:main	10
+../Src/main.c:118:6:NEXT	3
+../Src/main.c:138:6:PAUSE_RESUME	3
+../Src/main.c:151:6:PREVIOUS	3
